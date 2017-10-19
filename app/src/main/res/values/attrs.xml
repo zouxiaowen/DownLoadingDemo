@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--设置指示条的个数的自定义属性-->
+    <attr name="item_count" format="integer"></attr>
+    <!--设置指示条宽度的放大系数-->
+    <attr name="item_magnification" format="float"></attr>
+
+    <declare-styleable name="ViewPagerIndicator">
+        <attr name="item_count" />
+        <attr name="item_magnification" />
+    </declare-styleable>
+</resources>
